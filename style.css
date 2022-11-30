@@ -238,7 +238,7 @@ top: 0;
 left: 0;
 height: 100%;
 width: 100%;
-border-color: #1c1d25;
+background-color: #1c1d25;
 opacity: 0;
 transition:opacity 450ms ease;
 z-index: 2;
